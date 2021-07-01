@@ -72,3 +72,23 @@ predict.py
 
 ## 6. Predicted Images
 Here are some sample output images predicted by saved_model/model
+
+![beagle_1](https://user-images.githubusercontent.com/52169316/124116214-51591000-da8c-11eb-9276-d1db222174f7.jpg)
+
+![Egyptian_Mau_45](https://user-images.githubusercontent.com/52169316/124116253-5f0e9580-da8c-11eb-937a-69e797f953f4.jpg)
+
+![shiba_inu_65](https://user-images.githubusercontent.com/52169316/124116308-73529280-da8c-11eb-9472-25ef174f1366.jpg)
+
+![Ragdoll_43](https://user-images.githubusercontent.com/52169316/124116371-849b9f00-da8c-11eb-8aeb-9b06a37cb8e9.jpg)
+
+![havanese_1](https://user-images.githubusercontent.com/52169316/124116473-9b41f600-da8c-11eb-8ee6-95a255821a6e.jpg)
+
+![Russian_Blue_201](https://user-images.githubusercontent.com/52169316/124116511-a39a3100-da8c-11eb-9a0a-42fc835d76ac.jpg)
+
+![samoyed_59](https://user-images.githubusercontent.com/52169316/124116556-b44aa700-da8c-11eb-8758-d0bb979726eb.jpg)
+
+![Russian_Blue_41](https://user-images.githubusercontent.com/52169316/124116599-c4fb1d00-da8c-11eb-8670-3953b295c934.jpg)
+
+![shiba_inu_25](https://user-images.githubusercontent.com/52169316/124116635-cd535800-da8c-11eb-8775-1904724b9498.jpg)
+
+![British_Shorthair_21](https://user-images.githubusercontent.com/52169316/124117517-de509900-da8d-11eb-8a3a-d63a7a5f7596.jpg)
