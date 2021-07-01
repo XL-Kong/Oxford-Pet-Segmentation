@@ -2,7 +2,9 @@
 ## 1. Introduction
 Train a cats vs dogs instance segmentation model from scratch using Mask R-CNN in PyTorch
 
-In this project we use the popular Oxford-IIIT Pet Dataset
+In this project we use the popular Oxford-IIIT Pet Dataset.
+
+Train.ipynb is the google colaboratory version of this project 
 
 ## 2 Prerequisites
 - Python 3
