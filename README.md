@@ -35,3 +35,40 @@ wget https://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz
 tar -xvf images.tar.gz
 tar -xvf annotations.tar.gz
 ```
+
+   3. The dataset is split into train and validation by train.py, it is split based on the availability of annotations (.xml)
+```bash
+OxfordDataset/
+ Images/
+   [xxx].jpg
+   ...
+ Images_val/
+   [xxx].jpg
+   ...
+ Masks/
+   [xxx].png
+   ...
+ Masks_val/
+   [xxx].png
+   ...  
+ Xmls/
+   [xxx].xml
+   ...
+``` 
+
+## 4. Train
+Modify Hyperparameters in train.py
+```bash
+train.py
+```
+
+## 5. Test
+predict.py is designed to run predictions on the images in validation folder (Images_val)
+
+Change the filename and saved_model in predict.py
+```bash
+predict.py
+```
+
+## 6. Predicted Images
+Here are some sample output images predicted by saved_model/model
