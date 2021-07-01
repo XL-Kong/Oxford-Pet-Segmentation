@@ -36,7 +36,7 @@ tar -xvf images.tar.gz
 tar -xvf annotations.tar.gz
 ```
 
-   3. The dataset is split into train and validation by train.py, it is split based on the availability of annotations (.xml)
+   3. The dataset is split into train and validation by train.py, it is done based on the availability of annotations (.xml)
 ```bash
 OxfordDataset/
  Images/
@@ -58,6 +58,7 @@ OxfordDataset/
 
 ## 4. Train
 Modify Hyperparameters in train.py
+
 ```bash
 train.py
 ```
@@ -66,6 +67,7 @@ train.py
 predict.py is designed to run predictions on the images in validation folder (Images_val)
 
 Change the filename and saved_model in predict.py
+
 ```bash
 predict.py
 ```
